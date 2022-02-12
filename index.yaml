@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  app:
+  - apiVersion: v2
+    appVersion: 0.1.0
+    created: "2022-02-12T16:37:15.688543844Z"
+    description: Generic application chart
+    digest: ef40ecd7bdba134f870c3831b2504c327a2b7d91d39840ad1148e232e6df6067
+    name: app
+    type: application
+    urls:
+    - https://github.com/zasdaym/helm-charts/releases/download/app-0.1.2/app-0.1.2.tgz
+    version: 0.1.2
+generated: "2022-02-12T16:37:15.392590313Z"
