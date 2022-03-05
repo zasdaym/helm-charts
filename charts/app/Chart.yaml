@@ -1,5 +1,5 @@
 apiVersion: v2
 name: app
-description: Generic application chart
-type: library
-version: 0.1.4
+description: Generic stateless web application chart
+type: application
+version: 0.1.5
