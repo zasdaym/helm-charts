@@ -67,3 +67,11 @@ nodeSelector: {}
 tolerations: []
 
 affinity: {}
+
+env: []
+
+containerPort: 80
+
+readinessProbe: {}
+
+livenessProbe: {}
