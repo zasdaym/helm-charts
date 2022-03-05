@@ -2,6 +2,15 @@ apiVersion: v1
 entries:
   app:
   - apiVersion: v2
+    created: "2022-03-05T08:53:59.235602417Z"
+    description: Generic stateless web application chart
+    digest: 7cc14b2a72034d1cb77be05e1f1dfa9c3cf842d30d851f3de3318c678e83faae
+    name: app
+    type: application
+    urls:
+    - https://github.com/zasdaym/helm-charts/releases/download/app-0.1.7/app-0.1.7.tgz
+    version: 0.1.7
+  - apiVersion: v2
     created: "2022-03-05T08:34:43.31579862Z"
     description: Generic stateless web application chart
     digest: 607b2b388da9910d3d2b1ec6d1dfee2e43854a8cad5eb19f3567b1415f684e67
